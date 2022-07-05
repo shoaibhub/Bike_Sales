@@ -1,4 +1,5 @@
 # Project Overview:
+* To help the company gather insights from data and make meaningful decisions that can drive in more customers and increase profit.
 ### Tools Used: Excel ( Sum & Functions, Pivot Tables and Dashboard )
 [Project files](https://github.com/shoaibhub/Bike_Sales)
 * Used Sum & Functions to create custom columns and cleaned data using Excel
