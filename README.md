@@ -6,4 +6,8 @@
 * Used excel's In-built charts option to preapre an Interactive Dashboard.
 
 ## Final dashboard picture:
-![](/images/Telecom_project_picture.png)
+![](/Image/Final.dashboard_excel.png)
+
+## Findings:
+* This interactive dashboard prepared in Excel represents customers from different backgrounds and can be filtered by regions and marital status, The dashboard shows customers from different age groups, averge income of customers and educational backgrounds all of which can be very useful to prepare customised marketing and promotional strategy to drive in more profit.
+
